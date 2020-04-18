@@ -23,6 +23,7 @@ Method: Load
 
 ### Resources:
 https://github.com/0xd4d/dnSpy
+https://github.com/BennettStaley/RoR2ModMenu
 
 ### Media: 
-https://www.youtube.com/watch?v=ragMPNvDY44&feature=youtu.be
+https://www.youtube.com/watch?v=ragMPNvDY44
