@@ -2,6 +2,20 @@
 # Has been updated for the Artifacts Update
 A small collection of hacks and cheats for Risk of Rain 2. 
 
+# Features
+
+- [ ] Clear items in inventory
+- [ ] Give all items
+- [ ] Stack inventory (does the same thing as the Shrine of Order)
+- [ ] Give XP
+- [ ] Give Money
+- [ ] Give Lunar Coins
+- [ ] Give yourself items and equipment
+- [ ] Give/Remove buffs
+- [ ] No ability cooldowns
+- [ ] No equipment cooldown
+- [ ] See chests and teleporter through walls
+
 ### Building:
 Right click on the project > add > Reference... 
 
