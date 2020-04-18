@@ -3,23 +3,6 @@ using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
 using RoR2;
-using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Runtime.CompilerServices;
-using EntityStates;
-using RoR2.Audio;
-using RoR2.CharacterAI;
-using RoR2.Networking;
-using RoR2.Orbs;
-using RoR2.Projectile;
-using RoR2.Skills;
-using RoR2.UI;
-using Unity;
-using UnityEngine;
-using UnityEngine.Events;
-using UnityEngine.Networking;
-using UnityEngine.Serialization;
 
 namespace RoRCheats
 {
