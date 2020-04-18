@@ -1,4 +1,4 @@
-# Umbra \\ An unofficial Fork of Spektre Developed by BennettStaley
+# Umbra // An unofficial Fork of Spektre Developed by BennettStaley
 A small collection of hacks and cheats for Risk of Rain 2. 
 
 ### Building:
