@@ -22,7 +22,7 @@ Have to use mouse to select cheats. This can be done while holding tab ingame or
 # How to use:
 ## Download dll from Releases
 ### Requirements
-- [ ] A Mono Injector. [Sharpmonoinjector](https://github.com/warbler/SharpMonoInjector) is recommended
+- [ ] A Mono Injector. [Sharpmonoinjector](https://github.com/warbler/SharpMonoInjector) is recommended and is used in this tutorial.
 
 1. Head to [releases](https://github.com/kamron030702/RoR2ModMenu-Renewed/releases) and download Umbra v0.04.zip
 2. Extract the zip
@@ -36,7 +36,7 @@ Method: Load
 ## Build your own dll
 ### Requirements
 - [ ] Microsoft Visual Studios 2017 or later
-- [ ] A Mono Injector. [Sharpmonoinjector](https://github.com/warbler/SharpMonoInjector) is recommended
+- [ ] A Mono Injector. [Sharpmonoinjector](https://github.com/warbler/SharpMonoInjector) is recommended and is used in this tutorial.
 
 1. Clone or Download -> Download ZIP 
 2. Extract ZIP file
@@ -56,7 +56,7 @@ Method: Load
 ```
 6. Press ctrl+b to build dll and it should be located where you found the .sln file -> bin -> Debug -> RoRCheats.dll
 
-7.Use your favorite mono injector to inject the dll (If you do not know how to use sharpmonoinjector, scroll down to that section)
+7. Use your favorite mono injector to inject the dll (If you do not know how to use sharpmonoinjector, scroll down to that section)
 ```
 Namespace: RoRCheats
 Class: Loader
