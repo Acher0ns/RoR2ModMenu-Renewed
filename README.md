@@ -69,11 +69,11 @@ After you have your dll file, you'll need to have a way to inject it into the ga
 
 2. Next open a command prompt window as administrator and type the command:
 
-`cd [path to folder with smi.exe in it]` 
+`cd "[path to folder with smi.exe in it]"` 
 
-obviously replacing "[path to folder with smi.exe in it]" with the proper path. For example my command is:
+obviously replacing [path to folder with smi.exe in it] with the proper path (keep the quotes). For example my command is:
 
-`cd C:\Users\Kamron Cole\Documents\My Cheats\RoR2\SharpMonoInjector.Console\SharpMonoInjector.Console`
+`cd "C:\Users\Kamron Cole\Documents\My Cheats\RoR2\SharpMonoInjector.Console\SharpMonoInjector.Console"`
 
 3. You can tell if you're in the proper directory if you type `dir` and you see SharpMonoInjector.dll and smi.exe listed
 
