@@ -21,6 +21,7 @@ Have to use mouse to select cheats. This can be done while holding tab ingame or
 
 # Upcoming
 - [ ] Teleporter Management
+- [ ] Lobby Management
 - [ ] GUI Improvements
 - [ ] Clear Inventory Fix
 - [ ] Drop Items
