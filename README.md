@@ -19,6 +19,15 @@ A small collection of hacks and cheats for Risk of Rain 2.
 Can press `Insert` key to open.
 Have to use mouse to select cheats. This can be done while holding tab ingame or while in the escape menu.
 
+# Upcoming
+- [ ] Teleporter Management
+- [ ] GUI Improvements
+- [ ] Clear Inventory Fix
+- [ ] Drop Items
+- [ ] Fly
+- [ ] Always Sprint
+- [ ] Stats Modification/View
+
 # How to use:
 ## Download dll from Releases
 ### Requirements
