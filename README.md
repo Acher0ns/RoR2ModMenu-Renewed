@@ -28,6 +28,7 @@ Have to use mouse to select cheats. This can be done while holding tab ingame or
 - [ ] Fly
 - [ ] Always Sprint
 - [ ] Stats Modification/View
+- [ ] Unlock All
 
 # How to use:
 ## Download dll from Releases
